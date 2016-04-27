@@ -3,7 +3,7 @@ head(f)
 attach(f)
 
 ####  ploting error distribution
-#Nick
+
 ## year2012-one year ahead without zoros
 linear<-lm(first.grade.in.2012~age.5.in.2011+first.grade.in.2011+first.grade.in.2010)
 l<-summary(linear)
