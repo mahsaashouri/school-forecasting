@@ -1,3 +1,4 @@
+####### These codes are just for one-year-ahead tables and charts. for two- and three-year-ahead would be similar. 
 #reading data file.
 f<-read.csv("d:/ForecastingSchool.csv",header = T)
 head(f)
